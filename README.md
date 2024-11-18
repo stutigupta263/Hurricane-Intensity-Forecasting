@@ -51,3 +51,17 @@ Evaluation:
 -Mean Absolute Error (MAE) for path and intensity predictions.
 
 -Compared performance with varying window sizes.
+
+****Results****
+
+Vulnerability Analysis:
+
+-Identified top 5 counties needing aid using geographic and demographic data.
+
+-Visualized vulnerable regions using GIS tools like QGIS and Folium.
+
+LSTM Model:
+
+-Achieved accurate path and intensity predictions for Hurricane Ian.
+
+-Enhanced predictions by incorporating temporal features such as storm trajectory rates.
